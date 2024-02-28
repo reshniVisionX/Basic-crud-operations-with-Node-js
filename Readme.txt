@@ -1,24 +1,37 @@
-----Working with----
+# Working with
 
-Web Browser
+**Web Browser**
 
-Read API -> http, get, post, patch(minor changes), put(huge change), Delete
+**Read API**
+- HTTP
+- GET
+- POST
+- PATCH (minor changes)
+- PUT (huge change)
+- DELETE
 
-Postman -> used to test rest API's
+**Postman**
+- Used to test REST APIs
 
-Web FrameWork -> Express
+**Web Framework**
+- Express
 
-Runtime Enivornment -> Nodejs
+**Runtime Environment**
+- Node.js
 
-Database -> MongoDB 
+**Database**
+- MongoDB
 
-Editor ->  Vscode
+**Editor**
+- Visual Studio Code
 
-----packages to install-----
+---
 
--> npm init
--> npm install express
--> npm install mongodb
--> npm install mongoose
--> npm install nodemon
--> nodemon --save-dev
+## Packages to Install
+
+1. npm init
+2. npm install express
+3. npm install mongodb
+4. npm install mongoose
+5. npm install nodemon
+6. nodemon --save-dev
