@@ -2,7 +2,7 @@
 
 **Web Browser**
 
-**Read API**
+**Rest API**
 - HTTP
 - GET
 - POST
